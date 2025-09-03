@@ -4,8 +4,8 @@
 I'm a Website developer.
 
 ## 🔧 Tech I work with:
-- WordPress / WooCommerce
-- Shopify
+- Rust
+- Solidity
 
 
 ## 🌐 Socials:
